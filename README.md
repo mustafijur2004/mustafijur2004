@@ -1,54 +1,17 @@
 # Hi there, I'm Mustafijur! 👋
 
-## About Me
+# 💫 About Me:
+🔭 I’m currently working on frontend web projects using HTML, CSS, and JavaScript<br>👯 I’m looking to collaborate on responsive websites, UI components, and frontend open-source projects<br>🤝 I’m looking for help with advanced JavaScript, performance optimization, and modern frontend workflows<br>🌱 I’m currently learning React, UI/UX best practices, and modern CSS techniques<br>💬 Ask me about HTML, CSS, JavaScript, responsive design, and frontend layouts<br>⚡ Fun fact: I enjoy turning simple designs into fully responsive interactive websites
 
-I'm a **Frontend Developer** passionate about building clean and user-friendly web applications. Currently focused on mastering HTML, CSS, and JavaScript while expanding my skills into backend development.
 
-## 🚀 What I'm Doing
-
-- 💼 Developing practical web applications and projects
-- 📚 Learning backend development to become a full-stack developer
-- 🛠️ Building projects that solve real-world problems
-
-## 💻 Tech Stack
-
-**Frontend:**
-- HTML5
-- CSS3
-- JavaScript
-
-**Currently Learning:**
-- Backend Development
-
-## 📫 Connect With Me
-
-- GitHub: [@mustafijur2004](https://github.com/mustafijur2004)
-
-## 📊 My Projects
-
-| Project | Description |
-|---------|-------------|
-| [Home-Service](https://github.com/mustafijur2004/Home-Service) | A web application for home service management |
-| [Restaurant Management System](https://github.com/mustafijur2004/Restaurant-Management-System) | A system to manage restaurant operations |
-| [Web Programming](https://github.com/mustafijur2004/Web-Programming) | Web programming projects and experiments |
-| [Image Slider](https://github.com/mustafijur2004/Image-Slider) | An interactive image slider component |
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mustafijur2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mustafijur2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafijur2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mustafijur2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Thanks for visiting my profile!*
-## Hi there 👋
-
-<!--
-**mustafijur2004/mustafijur2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
